@@ -9,7 +9,7 @@ it contains text.
 And code, too:
 
 [,python]
----
+----
 from hell import lucifer
 
 agent = lucifer.new()
@@ -18,7 +18,7 @@ agent.rain_fire("All Humans")
 
 for humans in earth:
   print(f"{human} wails in pain!")
----
+----
 
 And a table:
 
@@ -32,7 +32,9 @@ And a table:
 
 |Cell in column 1, row 3
 |Cell in column 2, row 3
+|more stuff
 
 |Cell in column 1, row 4
 |Cell in column 2, row 4
+| even more crap.
 |===
