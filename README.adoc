@@ -10,11 +10,11 @@ And code, too:
 
 [,python]
 ----
-from hell import lucifer
+from hell import demon
 
-agent = lucifer.new()
+lucifer = demon.new()
 
-agent.rain_fire("All Humans")
+lucifer.rain_fire("All Humans")
 
 for humans in earth:
   print(f"{human} wails in pain!")
@@ -24,17 +24,17 @@ And a table:
 
 [cols="1,1,1"]
 |===
-|Things |For What | Who Cares? 
+|Things |For What |Who Cares? 
 
-|Boogers
-|Eating
-|Gross Little boys
+|Rocks
+|Throwing
+|Violent Little Boys
 
-|Cell in column 1, row 3
-|Cell in column 2, row 3
-|more stuff
+|Cats
+|Purring
+|Crazy cat fans
 
-|Cell in column 1, row 4
-|Cell in column 2, row 4
-| even more crap.
+|Dogs
+|Drooling, smelling bad, being gross
+|Couldn't tell you
 |===
